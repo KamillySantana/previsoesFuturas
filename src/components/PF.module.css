@@ -1,0 +1,14 @@
+.titulo{
+    color: white;
+    background-color: #5086c1;
+    padding: 20px;
+}
+
+.p{
+    font-size: 20px;
+}
+
+.input{
+    border-radius: 15px;
+    border: none
+}
